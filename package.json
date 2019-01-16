@@ -1,0 +1,26 @@
+{
+  "name": "octoberjs",
+  "version": "0.0.1",
+  "description": "OctoberCMS + JS = OctoberJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MWalid/octoberjs.git"
+  },
+  "keywords": [
+    "octoberjs",
+    "nodejs",
+    "javascript",
+    "feathersjs",
+    "react"
+  ],
+  "author": "Walid Ammar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MWalid/octoberjs/issues"
+  },
+  "homepage": "https://github.com/MWalid/octoberjs#readme"
+}
